@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ViewActivity">
+
+    <TextView
+        android:id="@+id/tvUserInfo"
+        android:layout_width="match_parent"
+        android:textSize="@dimen/tvUserInfo_textSize"
+        android:fontFamily="@font/bebasneue_regular"
+        android:layout_height="0dp"
+        android:layout_margin="12dp"
+        android:layout_weight="0.25"
+        android:text="@string/tvUserInfo_text" />
+
+    <TextView
+        android:id="@+id/tvMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/tvMessageActivityView_textSize"
+        android:layout_margin="12dp"
+        android:layout_weight="0.75"
+        android:text="@string/tvMessage_text" />
+</LinearLayout>

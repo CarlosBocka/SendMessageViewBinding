@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="tvUserInfo_text">La información del usuario</string>
+    <string name="tvMessage_text">La información del mensaje</string>
+    <string name="tvTittleMessage">Escribe un mensaje:</string>
+    <string name="tvUserInfo_output">%1$s %2$s con dni %3$s le ha mandado un mensaje</string>
+    <string name="aboutUsTitle">Sobre nosotros</string>
+    <string name="cardTitle_title">Información de la aplicación:</string>
+    <string name="cardTitle_text">Send Message</string>
+    <string name="cardTitle_desc">©Carlos Bocka 2023</string>
+    <string name="cardAuthor_title">Autor</string>
+    <string name="cardAuthor_text">Carlos Bocka</string>
+    <string name="cardAuthor_subtext">IES Portada Alta</string>
+    <string name="cardURL_text">Visita mi GitHub</string>
+    <string name="cardVersion_text">Versión</string>
+    <string name="cardVersion_subText">1.0.0</string>
+</resources>

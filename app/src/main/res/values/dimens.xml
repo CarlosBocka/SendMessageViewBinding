@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tvMessage_textSize">20sp</dimen>
+    <dimen name="edMessage_textSize">16sp</dimen>
+    <dimen name="tvUserInfo_textSize">18sp</dimen>
+    <dimen name="tvMessageActivityView_textSize">16sp</dimen>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="tvTittleMessage">"Write a message: "</string>
+    <string name="tvUserInfo_text">User\'s information</string>
+    <string name="tvMessage_text">Message\'s information</string>
+    <string name="tvUserInfo_output">%1$s %2$s with ID %3$s has sent you a message</string>
+    <string name="aboutUsTitle">About us</string>
+    <string name="cardTitle_title">Application information:</string>
+    <string name="cardTitle_text">Send Message</string>
+    <string name="cardTitle_desc">©Carlos Bocka 2023</string>
+    <string name="cardAuthor_title">Author</string>
+    <string name="cardAuthor_text">Carlos Bocka</string>
+    <string name="cardAuthor_subtext">IES Portada Alta</string>
+    <string name="cardURL_text">Go to my GitHub page</string>
+    <string name="cardVersion_text">Version</string>
+    <string name="cardVersion_subText">1.0.0</string>
+</resources>
